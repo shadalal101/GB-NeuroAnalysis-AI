@@ -1,2 +1,2 @@
 # GB-NeuroAnalysis AI
-## Deep learning for glioblastoma segmentation
+Deep learning for glioblastoma segmentation
